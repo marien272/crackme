@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://charming-mobility-parish-themselves.trycloudflare.com",
+      "permanent": true
+    }
+  ]
+}
